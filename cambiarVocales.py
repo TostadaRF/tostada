@@ -5,7 +5,11 @@ def subCadena(texto,inicio,fin):
             resultado += texto[inicio]
             inicio += 1
     return resultado
+<<<<<<< HEAD
 #SEXTA MODIFICACIÓN DIEGOOOOOOOOOOOOOO
+=======
+#Intento de fusión
+>>>>>>> prueba-diego
 def posCadena(texto,subtexto):
     i = 0
     while i+len(subtexto) <= len(texto) :
