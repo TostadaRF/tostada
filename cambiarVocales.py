@@ -6,6 +6,7 @@ def subCadena(texto,inicio,fin):
             inicio += 1
     return resultado
 #Comentario DIEGOOOOOO
+#Comentario Albertoooooo
 def posCadena(texto,subtexto):
     i = 0
     while i+len(subtexto) <= len(texto) :
